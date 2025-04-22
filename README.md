@@ -2,10 +2,12 @@
 
 
 ## Files in this Repository
-- `makemore.ipynb`: The jupyter notebook in the video
-- `my_makemore_template.py`: A template file with function interfaces and documentation, but implementation left for the user to complete
-- `my_makemore_solution.py`: A complete implementation of the character-level language model
-- `names.txt`: The dataset containing names used for training (make sure to include this file)
+
+open the 'makemore' directory and you'll find:
+    - `makemore.ipynb`: The jupyter notebook in the video
+    - `my_makemore_template.py`: A template file with function interfaces and documentation, but implementation left for the user to complete
+    - `my_makemore_solution.py`: A complete implementation of the character-level language model
+    - `names.txt`: The dataset containing names used for training (make sure to include this file)
 
 ## How to Use
 
